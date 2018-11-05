@@ -1,1 +1,3 @@
-amitava
+function abc {
+	print("i am cool");
+}
